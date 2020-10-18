@@ -1,1 +1,1 @@
-Hi, a sydney frontend developer from Sydney :)
+frontend developer from Sydney :)
