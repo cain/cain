@@ -19,7 +19,7 @@ export default function Home() {
         <div className={styles.contact}>
           <a href="https://github.com/cain" target="_blank">Github</a>
           <a href="https://www.linkedin.com/in/cainhall/" target="_blank">Linkedin</a>
-          <a href="mailto:cainh8@gmail.com" target="_blank">Email</a>
+          <a href="mailto:me@cainhall.com.au" target="_blank">Email</a>
         </div>
       </main>
     </div>
