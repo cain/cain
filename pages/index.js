@@ -13,7 +13,7 @@ export default function Home() {
         <h2>
           Hey, Cain here.
         </h2>
-        <p>
+        <p style="text-align: center;">
           A frontend dev in Sydney, working at <a href="https://www.plannthat.com" target="_blank">@plann</a>
         </p>
         <div className={styles.contact}>
