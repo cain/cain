@@ -20,6 +20,7 @@ export default function Home() {
           <a href="https://github.com/cain" target="_blank">Github</a>
           <a href="https://www.linkedin.com/in/cainhall/" target="_blank">Linkedin</a>
           <a href="mailto:me@cainhall.com.au" target="_blank">Email</a>
+          <a href="https://cain.github.io/resume/" target="_blank">Resume</a>
         </div>
       </main>
     </div>
