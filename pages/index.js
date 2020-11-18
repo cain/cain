@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h2>
+        <h2 style="margin-bottom: 0px">
           cain
         </h2>
         <p style="text-align: center;">
