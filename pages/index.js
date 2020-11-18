@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h2>
-          Hey, Cain here.
+          cain
         </h2>
         <p style="text-align: center;">
           A frontend dev in Sydney, working at <a href="https://www.plannthat.com" target="_blank">@plann</a>
