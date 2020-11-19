@@ -10,10 +10,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h2 style="margin-bottom: 0px">
-          cain
+        <h2 style={{ marginBottom: '0px' }}>
+          cain hall
         </h2>
-        <p style="text-align: center;">
+        <p style={{ textAlign: 'center' }}>
           A frontend dev in Sydney, working at <a href="https://www.plannthat.com" target="_blank">@plann</a>
         </p>
         <div className={styles.contact}>
