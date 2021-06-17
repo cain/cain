@@ -10,18 +10,18 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h2 style={{ marginBottom: '0px' }}>
+        {/* <h2 style={{ marginBottom: '0px' }}>
           cain hall
-        </h2>
+        </h2> */}
         <p style={{ textAlign: 'center' }}>
           A frontend dev in Sydney, working at <a href="https://www.plannthat.com" target="_blank">@plann</a>
         </p>
-        <div className={styles.contact}>
+        {/* <div className={styles.contact}>
           <a href="https://github.com/cain" target="_blank">Github</a>
           <a href="https://www.linkedin.com/in/cainhall/" target="_blank">Linkedin</a>
           <a href="mailto:me@cainhall.com.au" target="_blank">Email</a>
           <a href="https://cain.github.io/resume/" target="_blank">Resume</a>
-        </div>
+        </div> */}
       </main>
     </div>
   )
