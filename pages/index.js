@@ -10,18 +10,22 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        {/* <h2 style={{ marginBottom: '0px' }}>
-          cain hall
-        </h2> */}
-        <p style={{ textAlign: 'center' }}>
-          A frontend dev in Sydney, working at <a href="https://www.plannthat.com" target="_blank">@plann</a>
+        {/* <img src="/ch.svg" width="25px" class="mb-8" /> */}
+        <div class=" mb-8">
+          {/* <h2 class="font-bold">Cain Hall</h2> */}
+          {/* <div className={styles.square}></div> */}
+        </div>
+        <p class="mb-2">Hey,</p>
+        <p class="mb-2">
+          Im a frontend developer, <a href="https://www.plannthat.com" target="_blank">working at @plann</a>.
         </p>
-        {/* <div className={styles.contact}>
+        <p class="font-semibold mb-5">My goal is to deliver a quality user experiences for amazing products I love.</p>
+        <div className={styles.contact}>
           <a href="https://github.com/cain" target="_blank">Github</a>
           <a href="https://www.linkedin.com/in/cainhall/" target="_blank">Linkedin</a>
           <a href="mailto:me@cainhall.com.au" target="_blank">Email</a>
           <a href="https://cain.github.io/resume/" target="_blank">Resume</a>
-        </div> */}
+        </div>
       </main>
     </div>
   )
