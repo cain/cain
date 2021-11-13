@@ -6,3 +6,7 @@ a {
     /* background: #fedba1; */
     text-decoration: underline;
 }
+
+a:hover {
+    background: #fedba1;
+}
