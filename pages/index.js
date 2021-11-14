@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Cain Hall</title>
-        {/* <link rel="icon" href="/favicon.ico" /> */}
+        <link rel="icon" href="/ch.png" />
       </Head>
 
       <main className={styles.main}>
@@ -21,7 +21,7 @@ export default function Home() {
         <p class="mb-5">
           I'm a frontend developer, <a href="https://www.plannthat.com" target="_blank">working at @plann</a>. We help build tools for people/businesses to connect and with their audience.
         </p>
-        <h2 class="font-semibold mb-5">My goal is to deliver a quality user experience for amazing products I love.</h2>
+        <h2 class="font-semibold mb-5">My goal is to deliver a quality user experience.</h2>
         <div className={styles.contact}>
           <a href="https://github.com/cain" target="_blank">github</a>
           <a href="https://www.linkedin.com/in/cainhall/" target="_blank">linkedin</a>
