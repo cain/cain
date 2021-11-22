@@ -19,9 +19,9 @@ export default function Home() {
         </div>
         <p class="mb-2">Hey.</p>
         <p class="mb-5">
-          I'm a frontend developer, <a href="https://www.plannthat.com" target="_blank">working at @plann</a>. We help build tools for people/businesses to connect and with their audience.
+          I'm a frontend developer, <a href="https://www.plannthat.com" target="_blank">working at @plann</a>. We help build tools for people/businesses to connect with their audience.
         </p>
-        <h2 class="font-semibold mb-5">My goal is to deliver a quality user experience.</h2>
+        <h2 class="font-semibold mb-5">My goal is to deliver quality user experiences.</h2>
         <div className={styles.contact}>
           <a href="https://github.com/cain" target="_blank">github</a>
           <a href="https://www.linkedin.com/in/cainhall/" target="_blank">linkedin</a>
