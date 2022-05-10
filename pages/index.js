@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="/ch.png" width="50px" class="m-auto" />
+       {/* <img src="/ch.png" width="50px" class="m-auto" /> */}
         <div class="mb-8">
           {/* <h1 class="font-bold">Cain Hall</h1> */}
           {/* <a class="mr-2">writing</a>
