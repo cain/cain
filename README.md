@@ -1,1 +1,1 @@
-frontend developer in sydney
+frontend developer living in sydney
