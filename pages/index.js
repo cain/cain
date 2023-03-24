@@ -25,7 +25,6 @@ export default function Home() {
         <div className={styles.contact}>
           <a href="https://github.com/cain" target="_blank">github</a>
           <a href="https://www.linkedin.com/in/cainhall/" target="_blank">linkedin</a>
-          <a href="mailto:me@cainhall.com.au" target="_blank">email</a>
           <a href="https://cain.github.io/resume/" target="_blank">resume</a>
         </div> 
        {/* <h3 class=" mt-5 mb-2">Some Writings:</h3>
